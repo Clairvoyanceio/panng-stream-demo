@@ -71,7 +71,7 @@
     "@angular/cli": "11.0.5",
     "@angular/compiler-cli": "11.0.5",
     "@angular/language-service": "11.0.5",
-    "@graphql-codegen/cli": "1.19.4",
+    "@graphql-codegen/cli": "3.0.0",
     "@graphql-codegen/introspection": "1.18.1",
     "@graphql-codegen/typescript": "1.19.0",
     "@graphql-codegen/typescript-apollo-angular": "2.2.1",
